@@ -4,4 +4,6 @@ export const types ={
     UPDATE : 'UPDATE',
     DELETE : 'DELETE',
     LIKE   : 'LIKE',
+    AUTH   : 'AUTH',
+    LOGOUT : 'LOGOUT'
 }
